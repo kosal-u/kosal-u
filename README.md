@@ -84,6 +84,7 @@ I'm a **Senior Network & Security Engineer** specializing in **FTTH / Fiber Opti
 
 </div>
 
+---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d97706,50:0369a1,100:0a0f1e&height=110&section=footer" width="100%"/>
