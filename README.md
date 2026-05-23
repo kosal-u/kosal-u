@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=22&amp;pause=1200&amp;color=F59E0B&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=FTTH+and+Wireless+Engineer;GPON+%7C+FTTH+%7C+Wireless+Backhaul;Routing+%26+Switching+%7C+Network+Operations;Monitoring+%7C+Security+%7C+Automation;Building+Reliable+Networks+Daily" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=22&amp;pause=1200&amp;color=F59E0B&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=FTTH+and+Wireless+Engineer;GPON+%7C+FTTH+%7C+Wireless+Backhaul;Routing+%26+Switching+%7C+Network+Operations;Monitoring+%7C+Security+%7C+Automation;Building+Reliable+Networks+Daily"/>
 </div>
 
 <br/>
@@ -17,115 +17,157 @@
 
 ---
 
-## 👋 About Me
+# 👋 About Me
 
 > **Designing reliable networks, one link at a time.**
 
-I am **Kosal**, an **FTTH and Wireless Engineer** focused on **FTTH / GPON, Wireless Backhaul, Routing & Switching, NOC Operations, Monitoring, and Network Security**.
+I am **Kosal**, an **FTTH and Wireless Engineer** focused on:
 
-I design, deploy, troubleshoot, and optimize telecommunications and enterprise networks — from last-mile FTTH deployment and wireless point-to-point links to VLAN design, routing, switching, monitoring, and security hardening.
+- FTTH / GPON
+- Wireless Backhaul
+- Routing & Switching
+- Network Monitoring
+- NOC Operations
+- Network Security
+
+I design, deploy, troubleshoot, and optimize telecommunications and enterprise networks — from FTTH deployment and wireless backhaul to routing, switching, monitoring, and security hardening.
 
 ---
 
-## 🧭 Professional Focus
+# 🧭 Professional Focus
 
 <table>
   <tr>
     <td><b>FTTH / GPON</b></td>
-    <td>OLT, ONU/ONT, splitter design, optical power, provisioning, troubleshooting</td>
+    <td>OLT, ONU/ONT, optical power, splitter design, troubleshooting</td>
   </tr>
+
   <tr>
     <td><b>Wireless</b></td>
-    <td>PTP / PtMP, RF planning, link optimization, wireless backhaul operation</td>
+    <td>PTP / PtMP, RF planning, wireless optimization, backhaul operation</td>
   </tr>
+
   <tr>
     <td><b>Routing & Switching</b></td>
-    <td>VLAN, Trunk, LACP, OSPF, BGP, MPLS, PPPoE</td>
+    <td>VLAN, LACP, OSPF, BGP, MPLS, PPPoE</td>
   </tr>
+
   <tr>
     <td><b>NOC Operations</b></td>
-    <td>Monitoring, incident response, escalation, documentation, reporting</td>
+    <td>Monitoring, escalation, troubleshooting, reporting</td>
   </tr>
+
   <tr>
-    <td><b>Network Security</b></td>
-    <td>Firewall, access control, segmentation, hardening, logging</td>
+    <td><b>Security</b></td>
+    <td>Firewall, segmentation, logging, hardening</td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ Technology Stack
+# 🛠️ Technology Stack
 
-### 🌐 Vendors & Platforms
+## 🌐 Vendors & Platforms
 
 <p align="center">
+
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&amp;logo=cisco&amp;logoColor=white"/>
+
   <img src="https://img.shields.io/badge/MikroTik-293133?style=for-the-badge&amp;logo=mikrotik&amp;logoColor=white"/>
+
   <img src="https://img.shields.io/badge/Ubiquiti-0559C9?style=for-the-badge&amp;logo=ubiquiti&amp;logoColor=white"/>
+
   <img src="https://img.shields.io/badge/Huawei-CF0A2C?style=for-the-badge&amp;logo=huawei&amp;logoColor=white"/>
+
   <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&amp;logo=fortinet&amp;logoColor=white"/>
-</p>
 
-### ⚡ Network Technologies
-
-<p align="center">
-  <img src="https://img.shields.io/badge/GPON-0369A1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FTTH-0284C7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/XGS--PON-0EA5E9?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Wireless_RF-f59e0b?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/BGP-2563EB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OSPF-E11D48?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MPLS-7C3AED?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/VLAN_QinQ-0F766E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PPPoE-F97316?style=for-the-badge"/>
-</p>
-
-### 🧰 Tools & Labs
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PNETLab-0EA5E9?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/EVE--NG-00A8D1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GNS3-1BA0D7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&amp;logo=wireshark&amp;logoColor=white"/>
-  <img src="https://img.shields.io/badge/NetBox-9B59B6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&amp;logo=grafana&amp;logoColor=white"/>
-  <img src="https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&amp;logo=ansible&amp;logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white"/>
 </p>
 
 ---
 
-## 📊 GitHub Statistics
-
-## 📊 GitHub Statistics
+## ⚡ Network Technologies
 
 <p align="center">
+
+  <img src="https://img.shields.io/badge/GPON-0369A1?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/badge/FTTH-0284C7?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/badge/XGS--PON-0EA5E9?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/badge/Wireless_RF-f59e0b?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/badge/BGP-2563EB?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/badge/OSPF-E11D48?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/badge/MPLS-7C3AED?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/badge/VLAN_QinQ-0F766E?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/badge/PPPoE-F97316?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🧰 Tools & Labs
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/PNETLab-0EA5E9?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/badge/EVE--NG-00A8D1?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/badge/GNS3-1BA0D7?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&amp;logo=wireshark&amp;logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/NetBox-9B59B6?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&amp;logo=grafana&amp;logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&amp;logo=ansible&amp;logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white"/>
+
+</p>
+
+---
+
+# 📊 GitHub Profile
+
+<p align="center">
+
   <a href="https://github.com/ronnkosal">
     <img src="https://img.shields.io/badge/GitHub_Profile-ronnkosal-020617?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/Public_Projects-Available-22c55e?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-Network_Engineering-f59e0b?style=for-the-badge"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ronnkosal&amp;bg_color=020617&amp;color=e5e7eb&amp;line=f59e0b&amp;point=38bdf8&amp;area=true&amp;hide_border=true"/>
+  <img src="https://img.shields.io/badge/Public_Repositories-Available-22c55e?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/badge/Focus-Network_Engineering-f59e0b?style=for-the-badge"/>
+
 </p>
 
 ---
 
-## 🎯 Current Learning
+# 🎯 Current Learning
 
 <table>
   <tr>
     <td>🔐 Cybersecurity</td>
-    <td>Firewall, network hardening, SOC basics, vulnerability management</td>
+    <td>Firewall, hardening, SOC basics, vulnerability management</td>
   </tr>
+
   <tr>
     <td>🤖 Network Automation</td>
     <td>Python, Ansible, Netmiko, monitoring automation</td>
   </tr>
+
   <tr>
     <td>☁️ Cloud Networking</td>
     <td>AWS, VPN, routing, hybrid cloud connectivity</td>
@@ -134,12 +176,14 @@ I design, deploy, troubleshoot, and optimize telecommunications and enterprise n
 
 ---
 
-## 🌍 Connect With Me
+# 🌍 Connect With Me
 
 <p align="center">
+
   <a href="https://github.com/ronnkosal">
     <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
   </a>
+
 </p>
 
 ---
