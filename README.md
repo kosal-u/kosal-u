@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0f1e,30:0c2340,70:0369a1,100:d97706&amp;height=240&amp;section=header&amp;text=Alex%20Tran&amp;fontSize=54&amp;fontColor=ffffff&amp;fontAlignY=36&amp;desc=Senior%20Network%20%26%20Security%20Engineer&amp;descAlignY=56&amp;descSize=20&amp;descColor=fbbf24&amp;animation=fadeIn" width="100%"/>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0f1e,30:0c2340,70:0369a1,100:d97706&amp;height=240&amp;section=header&amp;text=Alex%20Tran&amp;fontSize=54&amp;fontColor=ffffff&amp;fontAlignY=36&amp;desc=Senior%20Network%20%26%20Security%20Engineer&amp;descAlignY=56&amp;descSize=20&amp;descColor=fbbf24&amp;animation=fadeIn"/>
+</p>
 
 <br/>
 
