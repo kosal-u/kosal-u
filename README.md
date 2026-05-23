@@ -99,9 +99,14 @@ I design, deploy, troubleshoot, and optimize telecommunications and enterprise n
 
 ## 📊 GitHub Statistics
 
+## 📊 GitHub Statistics
+
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ronnkosal&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;title_color=f59e0b&amp;icon_color=f59e0b&amp;text_color=e5e7eb"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronnkosal&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;title_color=f59e0b&amp;text_color=e5e7eb"/>
+  <a href="https://github.com/ronnkosal">
+    <img src="https://img.shields.io/badge/GitHub_Profile-ronnkosal-020617?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Public_Projects-Available-22c55e?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Network_Engineering-f59e0b?style=for-the-badge"/>
 </p>
 
 <p align="center">
