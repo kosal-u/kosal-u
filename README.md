@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:020617,35:0f172a,70:0369a1,100:f59e0b&amp;height=260&amp;section=header&amp;text=Alex%20Tran&amp;fontSize=58&amp;fontColor=ffffff&amp;fontAlignY=36&amp;desc=FTTH%20and%20Wireless%20Engineer&amp;descAlignY=57&amp;descSize=22&amp;descColor=facc15&amp;animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:020617,35:0f172a,70:0369a1,100:f59e0b&amp;height=260&amp;section=header&amp;text=I'm%20Kosal&amp;fontSize=60&amp;fontColor=ffffff&amp;fontAlignY=36&amp;desc=FTTH%20and%20Wireless%20Engineer&amp;descAlignY=57&amp;descSize=22&amp;descColor=facc15&amp;animation=fadeIn"/>
 </p>
 
 <div align="center">
@@ -21,9 +21,9 @@
 
 > **Designing reliable networks, one link at a time.**
 
-I am an **FTTH and Wireless Engineer** focused on **FTTH / GPON, Wireless Backhaul, Routing & Switching, NOC Operations, Monitoring, and Network Security**.
+I am **Kosal**, an **FTTH and Wireless Engineer** focused on **FTTH / GPON, Wireless Backhaul, Routing & Switching, NOC Operations, Monitoring, and Network Security**.
 
-I work with telecommunications and enterprise networks, including last-mile FTTH deployment, wireless point-to-point links, VLAN design, routing, switching, troubleshooting, monitoring, and network optimization.
+I design, deploy, troubleshoot, and optimize telecommunications and enterprise networks — from last-mile FTTH deployment and wireless point-to-point links to VLAN design, routing, switching, monitoring, and security hardening.
 
 ---
 
@@ -36,7 +36,7 @@ I work with telecommunications and enterprise networks, including last-mile FTTH
   </tr>
   <tr>
     <td><b>Wireless</b></td>
-    <td>PTP / PtMP, RF planning, link optimization, backhaul operation</td>
+    <td>PTP / PtMP, RF planning, link optimization, wireless backhaul operation</td>
   </tr>
   <tr>
     <td><b>Routing & Switching</b></td>
@@ -47,7 +47,7 @@ I work with telecommunications and enterprise networks, including last-mile FTTH
     <td>Monitoring, incident response, escalation, documentation, reporting</td>
   </tr>
   <tr>
-    <td><b>Security</b></td>
+    <td><b>Network Security</b></td>
     <td>Firewall, access control, segmentation, hardening, logging</td>
   </tr>
 </table>
@@ -100,8 +100,8 @@ I work with telecommunications and enterprise networks, including last-mile FTTH
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronnkosal&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=020617&amp;title_color=f59e0b&amp;icon_color=f59e0b&amp;text_color=e5e7eb"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronnkosal&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=020617&amp;title_color=f59e0b&amp;text_color=e5e7eb"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ronnkosal&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;title_color=f59e0b&amp;icon_color=f59e0b&amp;text_color=e5e7eb"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronnkosal&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;title_color=f59e0b&amp;text_color=e5e7eb"/>
 </p>
 
 <p align="center">
@@ -115,7 +115,7 @@ I work with telecommunications and enterprise networks, including last-mile FTTH
 <table>
   <tr>
     <td>🔐 Cybersecurity</td>
-    <td>Firewall, hardening, SOC basics, vulnerability management</td>
+    <td>Firewall, network hardening, SOC basics, vulnerability management</td>
   </tr>
   <tr>
     <td>🤖 Network Automation</td>
