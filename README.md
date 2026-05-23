@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=20&amp;pause=1200&amp;color=D97706&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Senior%20Network%20%26%20Security%20Engineer;FTTH%20%2F%20Fiber%20Optic%20%C2%B7%20Wireless%20%2F%20RF%20%2F%205G%20%C2%B7%20Routing%20%26%20Switching%20%C2%B7%20NOC%20%2F%20Network%20Operations%20%C2%B7%20Network%20Security%20%C2%B7%20Cloud%20Networking;Routing+%7C+Switching+%7C+Automation;Building+Resilient+Networks+Daily" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=20&amp;pause=1200&amp;color=D97706&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Senior+Network+%26+Security+Engineer;FTTH+%2F+Fiber+Optic+%C2%B7+Wireless+%2F+RF+%2F+5G+%C2%B7+Routing+%26+Switching+%C2%B7+NOC+%2F+Network+Operations+%C2%B7+Network+Security+%C2%B7+Cloud+Networking;Routing+%7C+Switching+%7C+Automation;Building+Resilient+Networks+Daily" alt="Typing SVG"/>
   </a>
 </div>
 
@@ -49,7 +49,7 @@ I'm a **Senior Network & Security Engineer** specializing in **FTTH / Fiber Opti
 ![BGP](https://img.shields.io/badge/BGP-0A66C2?style=for-the-badge&logoColor=white)  
 ![OSPF](https://img.shields.io/badge/OSPF-E34F26?style=for-the-badge&logoColor=white)  
 ![MPLS](https://img.shields.io/badge/MPLS-6B21A8?style=for-the-badge&logoColor=white)  
-![GPON / XGS-PON](https://img.shields.io/badge/GPON-0369a1?style=for-the-badge&logoColor=white)  
+![GPON / XGS-PON](https://img.shields.io/badge/GPON-0369a1?style=for-the-badge&logo=ubiquiti&logoColor=white)  
 ![IEEE 802.11](https://img.shields.io/badge/802.11_WiFi-0891b2?style=for-the-badge&logoColor=white)  
 ![VLAN / QinQ](https://img.shields.io/badge/VLAN-0369A1?style=for-the-badge&logoColor=white)  
 ![SD-WAN](https://img.shields.io/badge/SD--WAN-0F766E?style=for-the-badge&logoColor=white)
