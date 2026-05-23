@@ -1,104 +1,117 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0f1e,30:0c2340,70:0369a1,100:d97706&amp;height=240&amp;section=header&amp;text=Alex%20Tran&amp;fontSize=54&amp;fontColor=ffffff&amp;fontAlignY=36&amp;desc=Senior%20Network%20%26%20Security%20Engineer&amp;descAlignY=56&amp;descSize=20&amp;descColor=fbbf24&amp;animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,30:0369a1,70:d97706,100:f59e0b&amp;height=250&amp;section=header&amp;text=Alex%20Tran&amp;fontSize=56&amp;fontColor=ffffff&amp;fontAlignY=36&amp;desc=FTTH%20and%20Wireless%20Engineer&amp;descAlignY=56&amp;descSize=22&amp;descColor=facc15&amp;animation=fadeIn"/>
 </p>
 
 <br/>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=20&amp;pause=1200&amp;color=D97706&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Senior%20Network%20%26%20Security%20Engineer;FTTH%20%2F%20Fiber%20Optic%20%C2%B7%20Wireless%20%2F%20RF%20%2F%205G%20%C2%B7%20Routing%20%26%20Switching%20%C2%B7%20NOC%20%2F%20Network%20Operations%20%C2%B7%20Network%20Security%20%C2%B7%20Cloud%20Networking;Routing+%7C+Switching+%7C+Automation;Building+Resilient+Networks+Daily" alt="Typing SVG"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=21&amp;pause=1200&amp;color=F59E0B&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=FTTH+and+Wireless+Engineer;GPON+%7C+FTTH+%7C+Wireless+Backhaul;Routing+%26+Switching+%7C+NOC+Operations;Network+Security+%7C+Monitoring+%7C+Automation;Building+Reliable+Networks+Daily" alt="Typing SVG"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Focus-FTTH%20%7C%20Wireless%20%7C%20Security-d97706?style=flat-square&amp;logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-22c55e?style=flat-square"/>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&amp;color=d97706&amp;style=flat-square&amp;label=Profile+Views"/>
+  <img src="https://img.shields.io/badge/Focus-FTTH%20%7C%20Wireless%20%7C%20NOC-f59e0b?style=for-the-badge&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Network-Routing%20%26%20Switching-0369a1?style=for-the-badge&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-22c55e?style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&amp;color=f59e0b&amp;style=for-the-badge&amp;label=Profile+Views"/>
 </div>
 
 ---
 
 ## 👤 About Me
 
-> *"Designing resilient networks, one packet at a time."*
+> *"Designing reliable networks, one link at a time."*
 
-I'm a **Senior Network & Security Engineer** specializing in **FTTH / Fiber Optic · Wireless / RF / 5G · Routing & Switching · NOC / Network Operations · Network Security · Cloud Networking**.
+I'm an **FTTH and Wireless Engineer** specializing in **FTTH / GPON, Wireless Backhaul, Routing & Switching, NOC Operations, Network Security, Monitoring, and Cloud Networking**.
 
-I design, deploy, and optimize telecommunications and enterprise networks — from last-mile GPON/FTTH rollouts and wireless backhaul to routing, switching, monitoring, and security hardening.
+I design, deploy, troubleshoot, and optimize telecommunications and enterprise networks — from last-mile FTTH/GPON deployment to wireless point-to-point links, VLAN design, routing, switching, monitoring, and network security.
 
-- 🔭 Currently working on **Network Infrastructure, FTTH, Wireless, and Security Projects**
-- 📡 Core specializations: **FTTH / Fiber Optic · Wireless / RF · Routing & Switching · NOC · Network Security · Cloud Networking**
-- 🛠️ Home lab stack: **GNS3 · EVE-NG · PNETLab · Wireshark · NetBox**
-- 📖 Currently studying: **Cybersecurity, Automation, and Cloud Networking**
-- ⚡ Fun fact: **I can read an OTDR trace faster than most people read a map.**
-
----
-
-## 🏅 Certifications & Technology Stack
-
-### Vendors & Platforms
-
-![Cisco IOS](https://img.shields.io/badge/Cisco_IOS-1BA0D7?style=for-the-badge&amp;logo=cisco&amp;logoColor=white)
-![MikroTik](https://img.shields.io/badge/MikroTik-293133?style=for-the-badge&amp;logo=mikrotik&amp;logoColor=white)
-![Ubiquiti UniFi](https://img.shields.io/badge/UniFi-0559C9?style=for-the-badge&amp;logo=ubiquiti&amp;logoColor=white)
-![Huawei VRP](https://img.shields.io/badge/Huawei_VRP-CF0A2C?style=for-the-badge&amp;logo=huawei&amp;logoColor=white)
-![FortiGate](https://img.shields.io/badge/FortiGate-EE3124?style=for-the-badge&amp;logo=fortinet&amp;logoColor=white)
-
-### Protocols & Technologies
-
-![BGP](https://img.shields.io/badge/BGP-0A66C2?style=for-the-badge&amp;logoColor=white)
-![OSPF](https://img.shields.io/badge/OSPF-E34F26?style=for-the-badge&amp;logoColor=white)
-![MPLS](https://img.shields.io/badge/MPLS-6B21A8?style=for-the-badge&amp;logoColor=white)
-![GPON / XGS-PON](https://img.shields.io/badge/GPON_XGS--PON-0369a1?style=for-the-badge&amp;logoColor=white)
-![WiFi](https://img.shields.io/badge/802.11_WiFi-0891b2?style=for-the-badge&amp;logoColor=white)
-![VLAN / QinQ](https://img.shields.io/badge/VLAN_QinQ-0369A1?style=for-the-badge&amp;logoColor=white)
-![SD-WAN](https://img.shields.io/badge/SD--WAN-0F766E?style=for-the-badge&amp;logoColor=white)
-
-### Tools & Automation
-
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&amp;logo=ansible&amp;logoColor=white)
-![Python / Netmiko](https://img.shields.io/badge/Python_Netmiko-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&amp;logo=wireshark&amp;logoColor=white)
-![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&amp;logoColor=white)
-![GNS3 / EVE-NG](https://img.shields.io/badge/GNS3_EVE--NG-00A8D1?style=for-the-badge&amp;logoColor=white)
-![NetBox](https://img.shields.io/badge/NetBox-9B59B6?style=for-the-badge&amp;logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&amp;logo=grafana&amp;logoColor=white)
-![Nessus / Tenable](https://img.shields.io/badge/Nessus_Tenable-00C176?style=for-the-badge&amp;logoColor=white)
+- 🔭 Currently working on **FTTH, Wireless, and Network Infrastructure Projects**
+- 📡 Core specializations: **FTTH / GPON · Wireless / RF · Routing & Switching · NOC Operations**
+- 🛠️ Home lab stack: **PNETLab · EVE-NG · GNS3 · Wireshark · NetBox**
+- 📖 Currently studying: **Cybersecurity, Network Automation, and Cloud Networking**
+- ⚡ Fun fact: **I enjoy troubleshooting networks from physical layer to application layer.**
 
 ---
 
-## 📊 GitHub Stats
+## 🏅 Technology Stack
+
+### 🌐 Vendors & Platforms
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&amp;show_icons=true&amp;theme=merko&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&amp;layout=compact&amp;langs_count=7&amp;theme=merko&amp;hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&amp;theme=merko&amp;hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&amp;theme=react-dark&amp;hide_border=true&amp;color=d97706&amp;line=d97706&amp;point=ffffff"/>
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&amp;logo=cisco&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/MikroTik-293133?style=for-the-badge&amp;logo=mikrotik&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubiquiti-0559C9?style=for-the-badge&amp;logo=ubiquiti&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Huawei-CF0A2C?style=for-the-badge&amp;logo=huawei&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&amp;logo=fortinet&amp;logoColor=white"/>
 </div>
 
 ---
 
-## 🌐 Connect With Me
+### ⚡ Protocols & Technologies
 
 <div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-
+  <img src="https://img.shields.io/badge/GPON-0369A1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FTTH-0284C7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Wireless_RF-0EA5E9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/BGP-2563EB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OSPF-E11D48?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MPLS-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/VLAN_QinQ-0F766E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PPPoE-F97316?style=for-the-badge"/>
 </div>
 
 ---
 
+### 🛠️ Tools & Automation
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:d97706,50:0369a1,100:0a0f1e&amp;height=110&amp;section=footer" width="100%"/>
+  <img src="https://img.shields.io/badge/PNETLab-0EA5E9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/EVE--NG-00A8D1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GNS3-1BA0D7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&amp;logo=wireshark&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/NetBox-9B59B6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&amp;logo=grafana&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&amp;logo=ansible&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white"/>
 </div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=f59e0b&amp;icon_color=f59e0b&amp;text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=f59e0b&amp;text_color=ffffff"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&amp;theme=tokyonight&amp;hide_border=true&amp;background=00000000&amp;ring=f59e0b&amp;fire=f59e0b&amp;currStreakLabel=f59e0b"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&amp;bg_color=0f172a&amp;color=f8fafc&amp;line=f59e0b&amp;point=facc15&amp;area=true&amp;hide_border=true"/>
+</div>
+
+---
+
+## 🌍 Connect With Me
+
+<div align="center">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
+  </a>
+</div>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:f59e0b,50:0369a1,100:0f172a&amp;height=120&amp;section=footer"/>
+</p>
