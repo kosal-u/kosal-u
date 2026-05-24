@@ -202,7 +202,7 @@ I continuously improve infrastructure reliability, operational visibility, and n
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
   </a>
 
-  <a href="mailto:ronnkosal@gmail.com">
+  <a href="mailto:kosal@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
   </a>
 
