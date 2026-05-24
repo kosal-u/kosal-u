@@ -89,6 +89,7 @@ High availability, scalable architecture, performance optimization, infrastructu
 </tr>
 
 </table>
+
 ---
 
 # Technology Stack
