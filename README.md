@@ -44,61 +44,49 @@ I continuously improve infrastructure reliability, operational visibility, and n
 # Professional Focus
 
 
-<<table width="100%">
+<table width="100%">
 
 <tr>
 
-<td align="center" width="33%" valign="top">
+<td align="left" width="33%" valign="top">
 
-## 🌐 FTTH / GPON
+# 🌐 FTTH / GPON
 
-<sub>
-OLT • ONU/ONT • GPON • EPON
-</sub>
+> OLT • ONU/ONT • GPON • EPON
 
-<br><br>
-
-🔹 Optical Power Analysis  
-🔹 Splitter Design  
-🔹 FTTH Troubleshooting  
-🔹 Fiber Infrastructure  
-🔹 Service Deployment  
+- Optical Power Analysis  
+- Splitter Design  
+- FTTH Troubleshooting  
+- Fiber Infrastructure  
+- Service Deployment  
 
 </td>
 
-<td align="center" width="33%" valign="top">
+<td align="left" width="33%" valign="top">
 
-## 📡 Wireless
+# 📡 Wireless
 
-<sub>
-PTP • PtMP • RF • Backhaul
-</sub>
+> PtP • PtMP • RF • Backhaul
 
-<br><br>
-
-🔹 RF Planning  
-🔹 Wireless Optimization  
-🔹 Backhaul Operation  
-🔹 Link Stability  
-🔹 Network Monitoring  
+- RF Planning  
+- Wireless Optimization  
+- Backhaul Operation  
+- Link Stability  
+- Network Monitoring  
 
 </td>
 
-<td align="center" width="33%" valign="top">
+<td align="left" width="33%" valign="top">
 
-## 🔀 Routing & Switching
+# 🔀 Routing & Switching
 
-<sub>
-OSPF • BGP • MPLS • VLAN
-</sub>
+> OSPF • BGP • MPLS • VLAN
 
-<br><br>
-
-🔹 VLAN & Trunking  
-🔹 LACP / Port-Channel  
-🔹 OSPF & BGP  
-🔹 MPLS & PPPoE  
-🔹 Enterprise Routing  
+- VLAN & Trunking  
+- LACP / Port-Channel  
+- OSPF & BGP  
+- MPLS & PPPoE  
+- Enterprise Routing  
 
 </td>
 
@@ -106,63 +94,52 @@ OSPF • BGP • MPLS • VLAN
 
 <tr>
 
-<td align="center" width="33%" valign="top">
+<td align="left" width="33%" valign="top">
 
-## 🖥️ NOC Operations
+# 🖥️ NOC Operations
 
-<sub>
-Monitoring • Incident • Reporting
-</sub>
+> Monitoring • Incident • Reporting
 
-<br><br>
-
-🔹 Alert Monitoring  
-🔹 Escalation Handling  
-🔹 Incident Response  
-🔹 Technical Reporting  
-🔹 Service Availability  
+- Alert Monitoring  
+- Escalation Handling  
+- Incident Response  
+- Technical Reporting  
+- Service Availability  
 
 </td>
 
-<td align="center" width="33%" valign="top">
+<td align="left" width="33%" valign="top">
 
-## 🔐 Security
+# 🔐 Security
 
-<sub>
-Firewall • Hardening • Logging
-</sub>
+> Firewall • Hardening • Logging
 
-<br><br>
-
-🔹 Firewall Management  
-🔹 Network Segmentation  
-🔹 Access Control  
-🔹 System Hardening  
-🔹 Centralized Logging  
+- Firewall Management  
+- Network Segmentation  
+- Access Control  
+- System Hardening  
+- Centralized Logging  
 
 </td>
 
-<td align="center" width="33%" valign="top">
+<td align="left" width="33%" valign="top">
 
-## ⚡ Infrastructure
+# ⚡ Infrastructure
 
-<sub>
-Performance • Reliability • HA
-</sub>
+> Performance • Reliability • HA
 
-<br><br>
-
-🔹 High Availability  
-🔹 Infrastructure Optimization  
-🔹 Scalable Design  
-🔹 Service Reliability  
-🔹 Network Stability  
+- High Availability  
+- Infrastructure Optimization  
+- Scalable Design  
+- Service Reliability  
+- Network Stability  
 
 </td>
 
 </tr>
 
 </table>
+
 ---
 
 # Technology Stack
