@@ -152,62 +152,34 @@ I continuously improve infrastructure reliability, operational visibility, and n
 
 # Current Learning
 
-<table width="100%">
-<tr>
+<div align="center">
 
-<td width="33%" align="center" valign="top">
+# 🔐 Cybersecurity
+Firewall Security • Hardening • SOC Basics  
+Vulnerability Management • Zero Trust Concept
 
-<h2>🔐 Cybersecurity</h2>
+<img src="https://img.shields.io/badge/Firewall-Security-f59e0b?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SOC-Monitoring-0369a1?style=for-the-badge" />
 
-<p>
-Firewall Security<br>
-Hardening & Access Control<br>
-SOC Basics<br>
-Vulnerability Management<br>
-Zero Trust Concept
-</p>
+---
 
-<img src="https://img.shields.io/badge/Firewall-Security-f59e0b?style=flat-square" />
-<img src="https://img.shields.io/badge/SOC-Monitoring-0369a1?style=flat-square" />
+# 🤖 Network Automation
+Python • Ansible • Netmiko  
+API Integration • Monitoring Workflow
 
-</td>
+<img src="https://img.shields.io/badge/Python-Automation-f59e0b?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Ansible-NetOps-0369a1?style=for-the-badge" />
 
-<td width="33%" align="center" valign="top">
+---
 
-<h2>🤖 Network Automation</h2>
+# ☁️ Cloud Networking
+AWS Networking • VPN Deployment  
+Routing & Switching • Hybrid Cloud
 
-<p>
-Python Automation<br>
-Ansible Deployment<br>
-Netmiko Integration<br>
-API Automation<br>
-Monitoring Workflow
-</p>
+<img src="https://img.shields.io/badge/AWS-Cloud-f59e0b?style=for-the-badge" />
+<img src="https://img.shields.io/badge/VPN-Secure-0369a1?style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/Python-Automation-f59e0b?style=flat-square" />
-<img src="https://img.shields.io/badge/Ansible-NetOps-0369a1?style=flat-square" />
-
-</td>
-
-<td width="33%" align="center" valign="top">
-
-<h2>☁️ Cloud Networking</h2>
-
-<p>
-AWS Networking<br>
-VPN Deployment<br>
-Routing & Switching<br>
-Hybrid Cloud<br>
-Secure Connectivity
-</p>
-
-<img src="https://img.shields.io/badge/AWS-Cloud-f59e0b?style=flat-square" />
-<img src="https://img.shields.io/badge/VPN-Secure-0369a1?style=flat-square" />
-
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 
