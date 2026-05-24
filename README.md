@@ -44,30 +44,30 @@ I continuously improve infrastructure reliability, operational visibility, and n
 # Professional Focus
 
 
-<table style="width:100%; table-layout:fixed;">
+<table width="100%">
 
 <tr>
-<td style="width:260px;"><b>FTTH / GPON</b></td>
+<td width="260"><b>FTTH / GPON</b></td>
 <td>OLT, ONU/ONT, optical power analysis, splitter design, troubleshooting</td>
 </tr>
 
 <tr>
-<td><b>Wireless</b></td>
+<td width="260"><b>Wireless</b></td>
 <td>PTP / PtMP, RF planning, wireless optimization, backhaul operation</td>
 </tr>
 
 <tr>
-<td><b>Routing & Switching</b></td>
+<td width="260"><b>Routing & Switching</b></td>
 <td>VLAN, LACP, OSPF, BGP, MPLS, PPPoE</td>
 </tr>
 
 <tr>
-<td><b>NOC Operations</b></td>
+<td width="260"><b>NOC Operations</b></td>
 <td>Monitoring, escalation, troubleshooting, reporting</td>
 </tr>
 
 <tr>
-<td><b>Security</b></td>
+<td width="260"><b>Security</b></td>
 <td>Firewall, segmentation, logging, hardening</td>
 </tr>
 
