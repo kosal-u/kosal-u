@@ -157,34 +157,79 @@ I continuously improve infrastructure reliability, operational visibility, and n
 
 <td width="33%" valign="top">
 
-## 🔐 Cybersecurity
-- Firewall Security
-- Hardening
-- SOC Basics
-- Vulnerability Management
-- Zero Trust Concept
+<h2 align="center">🔐 Cybersecurity</h2>
+
+<p align="center">
+Firewall Security • Hardening • SOC Basics
+</p>
+
+<p align="center">
+Vulnerability Management • Zero Trust
+</p>
+
+<br>
+
+<div align="center">
+
+| Focus Area | Tools / Skills |
+|---|---|
+| Network Security | FortiGate, ACL, Segmentation |
+| Monitoring | Logs, SIEM, Syslog |
+| Protection | Hardening, Access Control |
+
+</div>
 
 </td>
 
 <td width="33%" valign="top">
 
-## 🤖 Network Automation
-- Python
-- Ansible
-- Netmiko
-- API Integration
-- Monitoring Automation
+<h2 align="center">🤖 Network Automation</h2>
+
+<p align="center">
+Python • Ansible • Netmiko
+</p>
+
+<p align="center">
+API Integration • Automation Workflow
+</p>
+
+<br>
+
+<div align="center">
+
+| Focus Area | Tools / Skills |
+|---|---|
+| Automation | Python, Ansible |
+| Network APIs | REST API, Netmiko |
+| Monitoring | Automation Scripts |
+
+</div>
 
 </td>
 
 <td width="33%" valign="top">
 
-## ☁️ Cloud Networking
-- AWS Networking
-- VPN Deployment
-- Routing & Switching
-- Hybrid Cloud
-- Secure Connectivity
+<h2 align="center">☁️ Cloud Networking</h2>
+
+<p align="center">
+AWS Networking • VPN Deployment
+</p>
+
+<p align="center">
+Hybrid Cloud • Secure Connectivity
+</p>
+
+<br>
+
+<div align="center">
+
+| Focus Area | Tools / Skills |
+|---|---|
+| Cloud | AWS, Hybrid Cloud |
+| Connectivity | VPN, Routing |
+| Infrastructure | Secure Network Design |
+
+</div>
 
 </td>
 
