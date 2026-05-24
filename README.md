@@ -157,7 +157,7 @@ I design, deploy, troubleshoot, and optimize telecommunications and enterprise n
 
 # Current Learning
 
-<table>
+<table align="center">
   <tr>
     <td>🔐 Cybersecurity</td>
     <td>Firewall, hardening, SOC basics, vulnerability management</td>
