@@ -39,7 +39,7 @@ My experience includes:
 
 I continuously improve infrastructure reliability, operational visibility, and network performance through monitoring, automation, and security best practices.
 
----
+
 
 # Professional Focus
 
@@ -110,7 +110,7 @@ High availability, scalable architecture, performance optimization, infrastructu
 
 </p>
 
----
+
 
 ## Network Technologies
 
@@ -136,7 +136,7 @@ High availability, scalable architecture, performance optimization, infrastructu
 
 </p>
 
----
+
 
 ## Tools & Labs
 
@@ -164,7 +164,7 @@ High availability, scalable architecture, performance optimization, infrastructu
 
 </p>
 
----
+
 
 # Current Learning
 
