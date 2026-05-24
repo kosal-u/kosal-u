@@ -171,43 +171,24 @@ High availability, scalable architecture, performance optimization, infrastructu
 <table width="100%">
 
 <tr>
-
-<td align="center" width="33%" valign="top">
-
-<h3>🔐 Cybersecurity</h3>
-
-Firewall Security<br>
-System Hardening<br>
-SOC Basics<br>
-Vulnerability Management<br>
-Zero Trust Concept
-
+<td width="260"><h3>🔐 Cybersecurity</h3></td>
+<td>
+Firewall security, system hardening, SOC basics, vulnerability management, zero trust architecture
 </td>
+</tr>
 
-<td align="center" width="33%" valign="top">
-
-<h3>🤖 Network Automation</h3>
-
-Python Automation<br>
-Ansible Deployment<br>
-Netmiko Integration<br>
-API Automation<br>
-Monitoring Workflow
-
+<tr>
+<td width="260"><h3>🤖 Network Automation</h3></td>
+<td>
+Python automation, Ansible deployment, Netmiko integration, API automation, monitoring workflow
 </td>
+</tr>
 
-<td align="center" width="33%" valign="top">
-
-<h3>☁️ Cloud Networking</h3>
-
-AWS Networking<br>
-VPN Deployment<br>
-Routing & Switching<br>
-Hybrid Cloud<br>
-Secure Connectivity
-
+<tr>
+<td width="260"><h3>☁️ Cloud Networking</h3></td>
+<td>
+AWS networking, VPN deployment, routing & switching, hybrid cloud connectivity, secure infrastructure
 </td>
-
 </tr>
 
 </table>
