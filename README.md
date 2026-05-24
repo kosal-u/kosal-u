@@ -45,48 +45,59 @@ I continuously improve infrastructure reliability, operational visibility, and n
 
 
 <table width="100%">
-
 <tr>
 
-<td align="left" width="33%" valign="top">
+<td width="33%" valign="top" align="left">
 
-# 🌐 FTTH / GPON
+<h2>🌐 FTTH / GPON</h2>
 
-> OLT • ONU/ONT • GPON • EPON
+<p>
+OLT • ONU/ONT • GPON • EPON
+</p>
 
-- Optical Power Analysis  
-- Splitter Design  
-- FTTH Troubleshooting  
-- Fiber Infrastructure  
-- Service Deployment  
-
-</td>
-
-<td align="left" width="33%" valign="top">
-
-# 📡 Wireless
-
-> PtP • PtMP • RF • Backhaul
-
-- RF Planning  
-- Wireless Optimization  
-- Backhaul Operation  
-- Link Stability  
-- Network Monitoring  
+<p>
+Optical Power Analysis<br>
+Splitter Design<br>
+FTTH Troubleshooting<br>
+Fiber Infrastructure<br>
+Service Deployment
+</p>
 
 </td>
 
-<td align="left" width="33%" valign="top">
+<td width="33%" valign="top" align="left">
 
-# 🔀 Routing & Switching
+<h2>📡 Wireless</h2>
 
-> OSPF • BGP • MPLS • VLAN
+<p>
+PtP • PtMP • RF • Backhaul
+</p>
 
-- VLAN & Trunking  
-- LACP / Port-Channel  
-- OSPF & BGP  
-- MPLS & PPPoE  
-- Enterprise Routing  
+<p>
+RF Planning<br>
+Wireless Optimization<br>
+Backhaul Operation<br>
+Link Stability<br>
+Network Monitoring
+</p>
+
+</td>
+
+<td width="33%" valign="top" align="left">
+
+<h2>🔀 Routing & Switching</h2>
+
+<p>
+OSPF • BGP • MPLS • VLAN
+</p>
+
+<p>
+VLAN & Trunking<br>
+LACP / Port-Channel<br>
+OSPF & BGP<br>
+MPLS & PPPoE<br>
+Enterprise Routing
+</p>
 
 </td>
 
@@ -94,50 +105,61 @@ I continuously improve infrastructure reliability, operational visibility, and n
 
 <tr>
 
-<td align="left" width="33%" valign="top">
+<td width="33%" valign="top" align="left">
 
-# 🖥️ NOC Operations
+<h2>🖥️ NOC Operations</h2>
 
-> Monitoring • Incident • Reporting
+<p>
+Monitoring • Incident • Reporting
+</p>
 
-- Alert Monitoring  
-- Escalation Handling  
-- Incident Response  
-- Technical Reporting  
-- Service Availability  
-
-</td>
-
-<td align="left" width="33%" valign="top">
-
-# 🔐 Security
-
-> Firewall • Hardening • Logging
-
-- Firewall Management  
-- Network Segmentation  
-- Access Control  
-- System Hardening  
-- Centralized Logging  
+<p>
+Alert Monitoring<br>
+Escalation Handling<br>
+Incident Response<br>
+Technical Reporting<br>
+Service Availability
+</p>
 
 </td>
 
-<td align="left" width="33%" valign="top">
+<td width="33%" valign="top" align="left">
 
-# ⚡ Infrastructure
+<h2>🔐 Security</h2>
 
-> Performance • Reliability • HA
+<p>
+Firewall • Hardening • Logging
+</p>
 
-- High Availability  
-- Infrastructure Optimization  
-- Scalable Design  
-- Service Reliability  
-- Network Stability  
+<p>
+Firewall Management<br>
+Network Segmentation<br>
+Access Control<br>
+System Hardening<br>
+Centralized Logging
+</p>
+
+</td>
+
+<td width="33%" valign="top" align="left">
+
+<h2>⚡ Infrastructure</h2>
+
+<p>
+Performance • Reliability • HA
+</p>
+
+<p>
+High Availability<br>
+Infrastructure Optimization<br>
+Scalable Design<br>
+Service Reliability<br>
+Network Stability
+</p>
 
 </td>
 
 </tr>
-
 </table>
 
 ---
