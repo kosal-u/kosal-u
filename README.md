@@ -45,123 +45,50 @@ I continuously improve infrastructure reliability, operational visibility, and n
 
 
 <table width="100%">
+
 <tr>
-
-<td width="33%" valign="top" align="left">
-
-<h2>🌐 FTTH / GPON</h2>
-
-<p>
-OLT • ONU/ONT • GPON • EPON
-</p>
-
-<p>
-Optical Power Analysis<br>
-Splitter Design<br>
-FTTH Troubleshooting<br>
-Fiber Infrastructure<br>
-Service Deployment
-</p>
-
+<td width="260"><h3>🌐 FTTH / GPON</h3></td>
+<td>
+OLT, ONU/ONT, optical power analysis, splitter design, FTTH troubleshooting, GPON/EPON deployment
 </td>
-
-<td width="33%" valign="top" align="left">
-
-<h2>📡 Wireless</h2>
-
-<p>
-PtP • PtMP • RF • Backhaul
-</p>
-
-<p>
-RF Planning<br>
-Wireless Optimization<br>
-Backhaul Operation<br>
-Link Stability<br>
-Network Monitoring
-</p>
-
-</td>
-
-<td width="33%" valign="top" align="left">
-
-<h2>🔀 Routing & Switching</h2>
-
-<p>
-OSPF • BGP • MPLS • VLAN
-</p>
-
-<p>
-VLAN & Trunking<br>
-LACP / Port-Channel<br>
-OSPF & BGP<br>
-MPLS & PPPoE<br>
-Enterprise Routing
-</p>
-
-</td>
-
 </tr>
 
 <tr>
-
-<td width="33%" valign="top" align="left">
-
-<h2>🖥️ NOC Operations</h2>
-
-<p>
-Monitoring • Incident • Reporting
-</p>
-
-<p>
-Alert Monitoring<br>
-Escalation Handling<br>
-Incident Response<br>
-Technical Reporting<br>
-Service Availability
-</p>
-
+<td width="260"><h3>📡 Wireless</h3></td>
+<td>
+PTP / PtMP, RF planning, wireless optimization, backhaul operation, link stability monitoring
 </td>
-
-<td width="33%" valign="top" align="left">
-
-<h2>🔐 Security</h2>
-
-<p>
-Firewall • Hardening • Logging
-</p>
-
-<p>
-Firewall Management<br>
-Network Segmentation<br>
-Access Control<br>
-System Hardening<br>
-Centralized Logging
-</p>
-
-</td>
-
-<td width="33%" valign="top" align="left">
-
-<h2>⚡ Infrastructure</h2>
-
-<p>
-Performance • Reliability • HA
-</p>
-
-<p>
-High Availability<br>
-Infrastructure Optimization<br>
-Scalable Design<br>
-Service Reliability<br>
-Network Stability
-</p>
-
-</td>
-
 </tr>
+
+<tr>
+<td width="260"><h3>🔀 Routing & Switching</h3></td>
+<td>
+VLAN, trunking, LACP, OSPF, BGP, MPLS, PPPoE, enterprise network infrastructure
+</td>
+</tr>
+
+<tr>
+<td width="260"><h3>🖥️ NOC Operations</h3></td>
+<td>
+Monitoring, escalation handling, troubleshooting, incident response, reporting, service availability
+</td>
+</tr>
+
+<tr>
+<td width="260"><h3>🔐 Security</h3></td>
+<td>
+Firewall management, segmentation, centralized logging, access control, system hardening
+</td>
+</tr>
+
+<tr>
+<td width="260"><h3>⚡ Infrastructure</h3></td>
+<td>
+High availability, scalable architecture, performance optimization, infrastructure reliability
+</td>
+</tr>
+
 </table>
-
 ---
 
 # Technology Stack
