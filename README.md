@@ -44,35 +44,17 @@ I continuously improve infrastructure reliability, operational visibility, and n
 # Professional Focus
 
 
-<table align="center" width="100%" style="width:100%; min-width:100%; border-collapse:collapse; table-layout:fixed;">
+<div style="width:100%;">
 
-<tr>
-<td width="35%" style="padding:10px;"><b>FTTH / GPON</b></td>
-<td width="65%" style="padding:10px;">OLT, ONU/ONT, optical power analysis, splitter design, troubleshooting</td>
-</tr>
+| Area | Details |
+|:---|:---|
+| **FTTH / GPON** | OLT, ONU/ONT, optical power analysis, splitter design, troubleshooting |
+| **Wireless** | PTP / PtMP, RF planning, wireless optimization, backhaul operation |
+| **Routing & Switching** | VLAN, LACP, OSPF, BGP, MPLS, PPPoE |
+| **NOC Operations** | Monitoring, escalation, troubleshooting, reporting |
+| **Security** | Firewall, segmentation, logging, hardening |
 
-<tr>
-<td style="padding:10px;"><b>Wireless</b></td>
-<td style="padding:10px;">PTP / PtMP, RF planning, wireless optimization, backhaul operation</td>
-</tr>
-
-<tr>
-<td style="padding:10px;"><b>Routing & Switching</b></td>
-<td style="padding:10px;">VLAN, LACP, OSPF, BGP, MPLS, PPPoE</td>
-</tr>
-
-<tr>
-<td style="padding:10px;"><b>NOC Operations</b></td>
-<td style="padding:10px;">Monitoring, escalation, troubleshooting, reporting</td>
-</tr>
-
-<tr>
-<td style="padding:10px;"><b>Security</b></td>
-<td style="padding:10px;">Firewall, segmentation, logging, hardening</td>
-</tr>
-
-</table>
-
+</div>
 
 ---
 
