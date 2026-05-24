@@ -169,13 +169,6 @@ I continuously improve infrastructure reliability, operational visibility, and n
 
 <br>
 
-```text
-✓ Firewall Security
-✓ Network Hardening
-✓ Vulnerability Management
-✓ Zero Trust Architecture
-✓ Security Monitoring
-
 ---
 
 # GitHub Profile
