@@ -194,7 +194,7 @@ I continuously improve infrastructure reliability, operational visibility, and n
 
 <p align="center">
 
-  <a href="https://github.com/ronnkosal">
+  <a href="https://github.com/kosal">
     <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
   </a>
 
