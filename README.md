@@ -48,55 +48,18 @@ I continuously improve infrastructure reliability, operational visibility, and n
 
 <tr>
 
-<td align="center" width="33%">
+<td align="center" width="33%" valign="top">
+
+<img src="https://img.shields.io/badge/FTTH-GPON-f59e0b?style=for-the-badge" />
 
 ### 🌐 FTTH / GPON
-OLT, ONU/ONT, optical power analysis, splitter design, troubleshooting
 
-</td>
-
-<td align="center" width="33%">
-
-### 📡 Wireless
-PTP / PtMP, RF planning, wireless optimization, backhaul operation
-
-</td>
-
-<td align="center" width="33%">
-
-### 🔀 Routing & Switching
-VLAN, LACP, OSPF, BGP, MPLS, PPPoE
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="33%">
-
-### 🖥️ NOC Operations
-Monitoring, escalation, troubleshooting, reporting
-
-</td>
-
-<td align="center" width="33%">
-
-### 🔐 Security
-Firewall, segmentation, logging, hardening
-
-</td>
-
-<td align="center" width="33%">
-
-### ⚡ Infrastructure
-Network stability, performance optimization, service availability
-
-</td>
-
-</tr>
-
-</table>
+```text
+OLT & ONU/ONT Deployment
+Optical Power Analysis
+Splitter Design
+FTTH Troubleshooting
+GPON / EPON Operation
 
 ---
 
