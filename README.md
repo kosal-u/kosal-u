@@ -185,10 +185,19 @@ I continuously improve infrastructure reliability, operational visibility, and n
 
 # Connect With Me
 
+
 <p align="center">
 
   <a href="https://github.com/ronnkosal">
     <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
+  </a>
+
+  <a href="mailto:ronnkosal@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
   </a>
 
 </p>
