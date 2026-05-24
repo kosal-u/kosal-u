@@ -139,7 +139,7 @@ I design, deploy, troubleshoot, and optimize telecommunications and enterprise n
 
 ---
 
-# 📊 GitHub Profile
+# GitHub Profile
 
 <p align="center">
 
