@@ -47,32 +47,56 @@ I continuously improve infrastructure reliability, operational visibility, and n
 <table width="100%">
 
 <tr>
-<td width="260"><b>FTTH / GPON</b></td>
-<td>OLT, ONU/ONT, optical power analysis, splitter design, troubleshooting</td>
+
+<td align="center" width="33%">
+
+### 🌐 FTTH / GPON
+OLT, ONU/ONT, optical power analysis, splitter design, troubleshooting
+
+</td>
+
+<td align="center" width="33%">
+
+### 📡 Wireless
+PTP / PtMP, RF planning, wireless optimization, backhaul operation
+
+</td>
+
+<td align="center" width="33%">
+
+### 🔀 Routing & Switching
+VLAN, LACP, OSPF, BGP, MPLS, PPPoE
+
+</td>
+
 </tr>
 
 <tr>
-<td width="260"><b>Wireless</b></td>
-<td>PTP / PtMP, RF planning, wireless optimization, backhaul operation</td>
-</tr>
 
-<tr>
-<td width="260"><b>Routing & Switching</b></td>
-<td>VLAN, LACP, OSPF, BGP, MPLS, PPPoE</td>
-</tr>
+<td align="center" width="33%">
 
-<tr>
-<td width="260"><b>NOC Operations</b></td>
-<td>Monitoring, escalation, troubleshooting, reporting</td>
-</tr>
+### 🖥️ NOC Operations
+Monitoring, escalation, troubleshooting, reporting
 
-<tr>
-<td width="260"><b>Security</b></td>
-<td>Firewall, segmentation, logging, hardening</td>
+</td>
+
+<td align="center" width="33%">
+
+### 🔐 Security
+Firewall, segmentation, logging, hardening
+
+</td>
+
+<td align="center" width="33%">
+
+### ⚡ Infrastructure
+Network stability, performance optimization, service availability
+
+</td>
+
 </tr>
 
 </table>
-
 
 ---
 
