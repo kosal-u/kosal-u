@@ -22,6 +22,7 @@
 
 ---
 
+
 # About Me
 
 > **Designing reliable networks, one link at a time.**
@@ -38,6 +39,7 @@ My experience includes:
 - Network Security
 
 I continuously improve infrastructure reliability, operational visibility, and network performance through monitoring, automation, and security best practices.
+
 
 
 
@@ -90,7 +92,8 @@ High availability, scalable architecture, performance optimization, infrastructu
 
 </table>
 
----
+
+
 
 # Technology Stack
 
