@@ -9,10 +9,15 @@
 <br/>
 
 <div align="center">
+
   <img src="https://img.shields.io/badge/FTTH-GPON%20%7C%20XGS--PON-f59e0b?style=for-the-badge"/>
+
   <img src="https://img.shields.io/badge/Wireless-Backhaul%20%7C%20RF-0369a1?style=for-the-badge"/>
+
   <img src="https://img.shields.io/badge/NOC-Network%20Operations-22c55e?style=for-the-badge"/>
+
   <img src="https://komarev.com/ghpvc/?username=ronnkosal&amp;color=f59e0b&amp;style=for-the-badge&amp;label=Profile+Views"/>
+
 </div>
 
 ---
@@ -21,7 +26,9 @@
 
 > **Designing reliable networks, one link at a time.**
 
-I am **Kosal**, an **FTTH and Wireless Engineer** focused on:
+I am **Kosal**, an **FTTH and Wireless Engineer** focused on designing, deploying, troubleshooting, and optimizing telecommunications and enterprise networks.
+
+My experience includes:
 
 - FTTH / GPON
 - Wireless Backhaul
@@ -30,36 +37,36 @@ I am **Kosal**, an **FTTH and Wireless Engineer** focused on:
 - NOC Operations
 - Network Security
 
-I design, deploy, troubleshoot, and optimize telecommunications and enterprise networks — from FTTH deployment and wireless backhaul to routing, switching, monitoring, and security hardening.
+I continuously improve infrastructure reliability, operational visibility, and network performance through monitoring, automation, and security best practices.
 
 ---
 
 # Professional Focus
 
-<table>
+<table width="100%">
   <tr>
-    <td><b>FTTH / GPON</b></td>
-    <td>OLT, ONU/ONT, optical power, splitter design, troubleshooting</td>
+    <td width="30%"><b>FTTH / GPON</b></td>
+    <td width="70%">OLT, ONU/ONT, optical power analysis, splitter design, troubleshooting</td>
   </tr>
 
   <tr>
-    <td><b>Wireless</b></td>
-    <td>PTP / PtMP, RF planning, wireless optimization, backhaul operation</td>
+    <td width="30%"><b>Wireless</b></td>
+    <td width="70%">PTP / PtMP, RF planning, wireless optimization, backhaul operation</td>
   </tr>
 
   <tr>
-    <td><b>Routing & Switching</b></td>
-    <td>VLAN, LACP, OSPF, BGP, MPLS, PPPoE</td>
+    <td width="30%"><b>Routing & Switching</b></td>
+    <td width="70%">VLAN, LACP, OSPF, BGP, MPLS, PPPoE</td>
   </tr>
 
   <tr>
-    <td><b>NOC Operations</b></td>
-    <td>Monitoring, escalation, troubleshooting, reporting</td>
+    <td width="30%"><b>NOC Operations</b></td>
+    <td width="70%">Monitoring, escalation, troubleshooting, reporting</td>
   </tr>
 
   <tr>
-    <td><b>Security</b></td>
-    <td>Firewall, segmentation, logging, hardening</td>
+    <td width="30%"><b>Security</b></td>
+    <td width="70%">Firewall, segmentation, logging, hardening</td>
   </tr>
 </table>
 
@@ -139,6 +146,27 @@ I design, deploy, troubleshoot, and optimize telecommunications and enterprise n
 
 ---
 
+# Current Learning
+
+<table width="100%">
+  <tr>
+    <td width="30%"><b>🔐 Cybersecurity</b></td>
+    <td width="70%">Firewall, hardening, SOC basics, vulnerability management</td>
+  </tr>
+
+  <tr>
+    <td width="30%"><b>🤖 Network Automation</b></td>
+    <td width="70%">Python, Ansible, Netmiko, monitoring automation</td>
+  </tr>
+
+  <tr>
+    <td width="30%"><b>☁️ Cloud Networking</b></td>
+    <td width="70%">AWS, VPN, routing, hybrid cloud connectivity</td>
+  </tr>
+</table>
+
+---
+
 # GitHub Profile
 
 <p align="center">
@@ -152,27 +180,6 @@ I design, deploy, troubleshoot, and optimize telecommunications and enterprise n
   <img src="https://img.shields.io/badge/Focus-Network_Engineering-f59e0b?style=for-the-badge"/>
 
 </p>
-
----
-
-# Current Learning
-
-<table>
-  <tr>
-    <td>🔐 Cybersecurity</td>
-    <td>Firewall, hardening, SOC basics, vulnerability management</td>
-  </tr>
-
-  <tr>
-    <td>🤖 Network Automation</td>
-    <td>Python, Ansible, Netmiko, monitoring automation</td>
-  </tr>
-
-  <tr>
-    <td>☁️ Cloud Networking</td>
-    <td>AWS, VPN, routing, hybrid cloud connectivity</td>
-  </tr>
-</table>
 
 ---
 
