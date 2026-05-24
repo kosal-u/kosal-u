@@ -152,34 +152,7 @@ I continuously improve infrastructure reliability, operational visibility, and n
 
 # Current Learning
 
-<div align="center">
-
-# 🔐 Cybersecurity
-Firewall Security • Hardening • SOC Basics  
-Vulnerability Management • Zero Trust Concept
-
-<img src="https://img.shields.io/badge/Firewall-Security-f59e0b?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SOC-Monitoring-0369a1?style=for-the-badge" />
-
----
-
-# 🤖 Network Automation
-Python • Ansible • Netmiko  
-API Integration • Monitoring Workflow
-
-<img src="https://img.shields.io/badge/Python-Automation-f59e0b?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Ansible-NetOps-0369a1?style=for-the-badge" />
-
----
-
-# ☁️ Cloud Networking
-AWS Networking • VPN Deployment  
-Routing & Switching • Hybrid Cloud
-
-<img src="https://img.shields.io/badge/AWS-Cloud-f59e0b?style=for-the-badge" />
-<img src="https://img.shields.io/badge/VPN-Secure-0369a1?style=for-the-badge" />
-
-</div>
+<table width="100%"> <tr> <td align="center" width="33%"> ### 🔐 Cybersecurity Firewall, hardening, SOC basics, vulnerability management </td> <td align="center" width="33%"> ### 🤖 Network Automation Python, Ansible, Netmiko, monitoring automation </td> <td align="center" width="33%"> ### ☁️ Cloud Networking AWS, VPN, routing, hybrid cloud connectivity </td> </tr> </table>
 
 ---
 
