@@ -155,51 +155,51 @@ I continuously improve infrastructure reliability, operational visibility, and n
 <table width="100%">
 <tr>
 
-<td align="center" width="33%" valign="top">
+<td width="33%" align="center" valign="top">
 
-## 🔐 Cybersecurity
+<h2>🔐 Cybersecurity</h2>
 
-Firewall Security  
-Hardening & Access Control  
-SOC Basics  
-Vulnerability Management  
-Zero Trust Concept  
-
-<br>
+<p>
+Firewall Security<br>
+Hardening & Access Control<br>
+SOC Basics<br>
+Vulnerability Management<br>
+Zero Trust Concept
+</p>
 
 <img src="https://img.shields.io/badge/Firewall-Security-f59e0b?style=flat-square" />
 <img src="https://img.shields.io/badge/SOC-Monitoring-0369a1?style=flat-square" />
 
 </td>
 
-<td align="center" width="33%" valign="top">
+<td width="33%" align="center" valign="top">
 
-## 🤖 Network Automation
+<h2>🤖 Network Automation</h2>
 
-Python Automation  
-Ansible Deployment  
-Netmiko Integration  
-API Automation  
-Monitoring Workflow  
-
-<br>
+<p>
+Python Automation<br>
+Ansible Deployment<br>
+Netmiko Integration<br>
+API Automation<br>
+Monitoring Workflow
+</p>
 
 <img src="https://img.shields.io/badge/Python-Automation-f59e0b?style=flat-square" />
 <img src="https://img.shields.io/badge/Ansible-NetOps-0369a1?style=flat-square" />
 
 </td>
 
-<td align="center" width="33%" valign="top">
+<td width="33%" align="center" valign="top">
 
-## ☁️ Cloud Networking
+<h2>☁️ Cloud Networking</h2>
 
-AWS Networking  
-VPN Deployment  
-Routing & Switching  
-Hybrid Cloud  
-Secure Connectivity  
-
-<br>
+<p>
+AWS Networking<br>
+VPN Deployment<br>
+Routing & Switching<br>
+Hybrid Cloud<br>
+Secure Connectivity
+</p>
 
 <img src="https://img.shields.io/badge/AWS-Cloud-f59e0b?style=flat-square" />
 <img src="https://img.shields.io/badge/VPN-Secure-0369a1?style=flat-square" />
