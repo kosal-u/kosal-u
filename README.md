@@ -211,5 +211,5 @@ I continuously improve infrastructure reliability, operational visibility, and n
 ---
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&amp;color=0:020617,50:0369a1,100:f59e0b&amp;height=140&amp;section=footer&amp;text=&amp;fontSize=0" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:f59e0b,50:0369a1,100:020617&amp;height=120&amp;section=footer" />
 </p>
