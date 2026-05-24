@@ -44,31 +44,31 @@ I continuously improve infrastructure reliability, operational visibility, and n
 # Professional Focus
 
 
-<table style="width:100%; border-collapse: collapse;">
+<table align="center" width="100%" style="width:100%; min-width:100%; border-collapse:collapse; table-layout:fixed;">
 
 <tr>
-<td style="width:30%;"><b>FTTH / GPON</b></td>
-<td style="width:70%;">OLT, ONU/ONT, optical power analysis, splitter design, troubleshooting</td>
+<td width="35%" style="padding:10px;"><b>FTTH / GPON</b></td>
+<td width="65%" style="padding:10px;">OLT, ONU/ONT, optical power analysis, splitter design, troubleshooting</td>
 </tr>
 
 <tr>
-<td><b>Wireless</b></td>
-<td>PTP / PtMP, RF planning, wireless optimization, backhaul operation</td>
+<td style="padding:10px;"><b>Wireless</b></td>
+<td style="padding:10px;">PTP / PtMP, RF planning, wireless optimization, backhaul operation</td>
 </tr>
 
 <tr>
-<td><b>Routing & Switching</b></td>
-<td>VLAN, LACP, OSPF, BGP, MPLS, PPPoE</td>
+<td style="padding:10px;"><b>Routing & Switching</b></td>
+<td style="padding:10px;">VLAN, LACP, OSPF, BGP, MPLS, PPPoE</td>
 </tr>
 
 <tr>
-<td><b>NOC Operations</b></td>
-<td>Monitoring, escalation, troubleshooting, reporting</td>
+<td style="padding:10px;"><b>NOC Operations</b></td>
+<td style="padding:10px;">Monitoring, escalation, troubleshooting, reporting</td>
 </tr>
 
 <tr>
-<td><b>Security</b></td>
-<td>Firewall, segmentation, logging, hardening</td>
+<td style="padding:10px;"><b>Security</b></td>
+<td style="padding:10px;">Firewall, segmentation, logging, hardening</td>
 </tr>
 
 </table>
@@ -152,23 +152,24 @@ I continuously improve infrastructure reliability, operational visibility, and n
 
 # Current Learning
 
-
-<table style="width:100%; border-collapse: collapse;">
+<table align="center" width="100%" style="width:100%; min-width:100%; border-collapse:collapse; table-layout:fixed;">
 
 <tr>
-<td style="width:30%;"><b>🔐 Cybersecurity</b></td>
-<td style="width:70%;">Firewall, hardening, SOC basics, vulnerability management</td>
+<td width="35%" style="padding:10px;"><b>🔐 Cybersecurity</b></td>
+<td width="65%" style="padding:10px;">Firewall, hardening, SOC basics, vulnerability management</td>
 </tr>
 
 <tr>
-<td><b>🤖 Network Automation</b></td>
-<td>Python, Ansible, Netmiko, monitoring automation</td>
+<td style="padding:10px;"><b>🤖 Network Automation</b></td>
+<td style="padding:10px;">Python, Ansible, Netmiko, monitoring automation</td>
 </tr>
 
 <tr>
-<td><b>☁️ Cloud Networking</b></td>
-<td>AWS, VPN, routing, hybrid cloud connectivity</td>
+<td style="padding:10px;"><b>☁️ Cloud Networking</b></td>
+<td style="padding:10px;">AWS, VPN, routing, hybrid cloud connectivity</td>
 </tr>
+
+</table>
 
 ---
 
