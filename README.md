@@ -154,26 +154,58 @@ I continuously improve infrastructure reliability, operational visibility, and n
 
 <table width="100%">
 <tr>
-<td align="center" width="33%">
 
-### 🔐 Cybersecurity
-Firewall, hardening, SOC basics, vulnerability management
+<td align="center" width="33%" valign="top">
+
+## 🔐 Cybersecurity
+
+Firewall Security  
+Hardening & Access Control  
+SOC Basics  
+Vulnerability Management  
+Zero Trust Concept  
+
+<br>
+
+<img src="https://img.shields.io/badge/Firewall-Security-f59e0b?style=flat-square" />
+<img src="https://img.shields.io/badge/SOC-Monitoring-0369a1?style=flat-square" />
+
+</td>
+
+<td align="center" width="33%" valign="top">
+
+## 🤖 Network Automation
+
+Python Automation  
+Ansible Deployment  
+Netmiko Integration  
+API Automation  
+Monitoring Workflow  
+
+<br>
+
+<img src="https://img.shields.io/badge/Python-Automation-f59e0b?style=flat-square" />
+<img src="https://img.shields.io/badge/Ansible-NetOps-0369a1?style=flat-square" />
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="33%" valign="top">
 
-### 🤖 Network Automation
-Python, Ansible, Netmiko, monitoring automation
+## ☁️ Cloud Networking
+
+AWS Networking  
+VPN Deployment  
+Routing & Switching  
+Hybrid Cloud  
+Secure Connectivity  
+
+<br>
+
+<img src="https://img.shields.io/badge/AWS-Cloud-f59e0b?style=flat-square" />
+<img src="https://img.shields.io/badge/VPN-Secure-0369a1?style=flat-square" />
 
 </td>
 
-<td align="center" width="33%">
-
-### ☁️ Cloud Networking
-AWS, VPN, routing, hybrid cloud connectivity
-
-</td>
 </tr>
 </table>
 
