@@ -154,36 +154,28 @@ I continuously improve infrastructure reliability, operational visibility, and n
 
 <table width="100%">
 <tr>
+<td align="center" width="33%">
 
-<td width="33%" valign="top">
+### 🔐 Cybersecurity
+Firewall, hardening, SOC basics, vulnerability management
 
-<div align="center">
+</td>
 
-# 🔐  
-# Cybersecurity
+<td align="center" width="33%">
 
-<img src="https://img.shields.io/badge/Firewall-Security-f59e0b?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SOC-Basics-0369a1?style=for-the-badge" />
+### 🤖 Network Automation
+Python, Ansible, Netmiko, monitoring automation
 
-</div>
+</td>
 
-<br>
+<td align="center" width="33%">
 
----
+### ☁️ Cloud Networking
+AWS, VPN, routing, hybrid cloud connectivity
 
-# GitHub Profile
-
-<p align="center">
-
-  <a href="https://github.com/kosal">
-    <img src="https://img.shields.io/badge/GitHub_Profile-ronnkosal-020617?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
-  </a>
-
-  <img src="https://img.shields.io/badge/Public_Repositories-Available-22c55e?style=for-the-badge"/>
-
-  <img src="https://img.shields.io/badge/Focus-Network_Engineering-f59e0b?style=for-the-badge"/>
-
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
