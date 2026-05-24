@@ -44,23 +44,125 @@ I continuously improve infrastructure reliability, operational visibility, and n
 # Professional Focus
 
 
-<table width="100%">
+<<table width="100%">
 
 <tr>
 
 <td align="center" width="33%" valign="top">
 
-<img src="https://img.shields.io/badge/FTTH-GPON-f59e0b?style=for-the-badge" />
+## 🌐 FTTH / GPON
 
-### 🌐 FTTH / GPON
+<sub>
+OLT • ONU/ONT • GPON • EPON
+</sub>
 
-```text
-OLT & ONU/ONT Deployment
-Optical Power Analysis
-Splitter Design
-FTTH Troubleshooting
-GPON / EPON Operation
+<br><br>
 
+🔹 Optical Power Analysis  
+🔹 Splitter Design  
+🔹 FTTH Troubleshooting  
+🔹 Fiber Infrastructure  
+🔹 Service Deployment  
+
+</td>
+
+<td align="center" width="33%" valign="top">
+
+## 📡 Wireless
+
+<sub>
+PTP • PtMP • RF • Backhaul
+</sub>
+
+<br><br>
+
+🔹 RF Planning  
+🔹 Wireless Optimization  
+🔹 Backhaul Operation  
+🔹 Link Stability  
+🔹 Network Monitoring  
+
+</td>
+
+<td align="center" width="33%" valign="top">
+
+## 🔀 Routing & Switching
+
+<sub>
+OSPF • BGP • MPLS • VLAN
+</sub>
+
+<br><br>
+
+🔹 VLAN & Trunking  
+🔹 LACP / Port-Channel  
+🔹 OSPF & BGP  
+🔹 MPLS & PPPoE  
+🔹 Enterprise Routing  
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="33%" valign="top">
+
+## 🖥️ NOC Operations
+
+<sub>
+Monitoring • Incident • Reporting
+</sub>
+
+<br><br>
+
+🔹 Alert Monitoring  
+🔹 Escalation Handling  
+🔹 Incident Response  
+🔹 Technical Reporting  
+🔹 Service Availability  
+
+</td>
+
+<td align="center" width="33%" valign="top">
+
+## 🔐 Security
+
+<sub>
+Firewall • Hardening • Logging
+</sub>
+
+<br><br>
+
+🔹 Firewall Management  
+🔹 Network Segmentation  
+🔹 Access Control  
+🔹 System Hardening  
+🔹 Centralized Logging  
+
+</td>
+
+<td align="center" width="33%" valign="top">
+
+## ⚡ Infrastructure
+
+<sub>
+Performance • Reliability • HA
+</sub>
+
+<br><br>
+
+🔹 High Availability  
+🔹 Infrastructure Optimization  
+🔹 Scalable Design  
+🔹 Service Reliability  
+🔹 Network Stability  
+
+</td>
+
+</tr>
+
+</table>
 ---
 
 # Technology Stack
