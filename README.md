@@ -153,22 +153,42 @@ I continuously improve infrastructure reliability, operational visibility, and n
 # Current Learning
 
 <table width="100%">
-
 <tr>
-<td width="260"><b>🔐 Cybersecurity</b></td>
-<td>Firewall, hardening, SOC basics, vulnerability management</td>
-</tr>
 
-<tr>
-<td width="260"><b>🤖 Network Automation</b></td>
-<td>Python, Ansible, Netmiko, monitoring automation</td>
-</tr>
+<td width="33%" valign="top">
 
-<tr>
-<td width="260"><b>☁️ Cloud Networking</b></td>
-<td>AWS, VPN, routing, hybrid cloud connectivity</td>
-</tr>
+## 🔐 Cybersecurity
+- Firewall Security
+- Hardening
+- SOC Basics
+- Vulnerability Management
+- Zero Trust Concept
 
+</td>
+
+<td width="33%" valign="top">
+
+## 🤖 Network Automation
+- Python
+- Ansible
+- Netmiko
+- API Integration
+- Monitoring Automation
+
+</td>
+
+<td width="33%" valign="top">
+
+## ☁️ Cloud Networking
+- AWS Networking
+- VPN Deployment
+- Routing & Switching
+- Hybrid Cloud
+- Secure Connectivity
+
+</td>
+
+</tr>
 </table>
 
 ---
