@@ -17,7 +17,7 @@
 
 ---
 
-# 👋 About Me
+# About Me
 
 > **Designing reliable networks, one link at a time.**
 
@@ -34,7 +34,7 @@ I design, deploy, troubleshoot, and optimize telecommunications and enterprise n
 
 ---
 
-# 🧭 Professional Focus
+# Professional Focus
 
 <table>
   <tr>
@@ -65,9 +65,9 @@ I design, deploy, troubleshoot, and optimize telecommunications and enterprise n
 
 ---
 
-# 🛠️ Technology Stack
+# Technology Stack
 
-## 🌐 Vendors & Platforms
+## Vendors & Platforms
 
 <p align="center">
 
@@ -85,7 +85,7 @@ I design, deploy, troubleshoot, and optimize telecommunications and enterprise n
 
 ---
 
-## ⚡ Network Technologies
+## Network Technologies
 
 <p align="center">
 
@@ -111,7 +111,7 @@ I design, deploy, troubleshoot, and optimize telecommunications and enterprise n
 
 ---
 
-## 🧰 Tools & Labs
+## Tools & Labs
 
 <p align="center">
 
@@ -155,7 +155,7 @@ I design, deploy, troubleshoot, and optimize telecommunications and enterprise n
 
 ---
 
-# 🎯 Current Learning
+# Current Learning
 
 <table>
   <tr>
@@ -176,7 +176,7 @@ I design, deploy, troubleshoot, and optimize telecommunications and enterprise n
 
 ---
 
-# 🌍 Connect With Me
+# Connect With Me
 
 <p align="center">
 
